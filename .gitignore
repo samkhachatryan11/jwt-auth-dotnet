@@ -1,0 +1,53 @@
+## .NET ##
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+[Dd]ebug/
+[Dd]ebugFinal/
+[Dd]Release/
+[Dd]ReleasePublic/
+[Dd]ReleaseFinal/
+bin/
+obj/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Rider ##
+.idea/
+
+## User-specific files ##
+.vscode/
+.vs/
+
+## ASP.NET Core ##
+# Tye
+.tye/
+
+# Azure Functions
+local.settings.json
+
+# .NET Core build configuration
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+#
