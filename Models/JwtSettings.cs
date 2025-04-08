@@ -1,4 +1,4 @@
-namespace JwtAuth.Models
+namespace DotnetJWTAuth.Models
 {
     public class JwtSettings
     {

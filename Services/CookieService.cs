@@ -1,4 +1,4 @@
-using JwtAuth.Models.Dtos;
+using DotnetJWTAuth.Models.Dtos;
 
 public interface ICookieService
 {

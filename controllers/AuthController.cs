@@ -1,10 +1,10 @@
 using System.Threading.Tasks;
-using JwtAuth.Models.Dtos;
-using JwtAuth.Services;
+using DotnetJWTAuth.Models.Dtos;
+using DotnetJWTAuth.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace JwtAuth.Controllers
+namespace DotnetJWTAuth.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

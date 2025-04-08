@@ -1,8 +1,8 @@
 using System;
 using System.Text;
-using JwtAuth.Data;
-using JwtAuth.Models;
-using JwtAuth.Services;
+using DotnetJWTAuth.Data;
+using DotnetJWTAuth.Models;
+using DotnetJWTAuth.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;

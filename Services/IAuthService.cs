@@ -1,8 +1,8 @@
 using System.Threading.Tasks;
-using JwtAuth.Models;
-using JwtAuth.Models.Dtos;
+using DotnetJWTAuth.Models;
+using DotnetJWTAuth.Models.Dtos;
 
-namespace JwtAuth.Services
+namespace DotnetJWTAuth.Services
 {
     public interface IAuthService
     {

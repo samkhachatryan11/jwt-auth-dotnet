@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace JwtAuth.Models
+namespace DotnetJWTAuth.Models
 {
     public class User
     {

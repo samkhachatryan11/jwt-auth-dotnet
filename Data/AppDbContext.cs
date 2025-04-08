@@ -1,7 +1,7 @@
-using JwtAuth.Models;
+using DotnetJWTAuth.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace JwtAuth.Data
+namespace DotnetJWTAuth.Data
 {
     public class AppDbContext : DbContext
     {
